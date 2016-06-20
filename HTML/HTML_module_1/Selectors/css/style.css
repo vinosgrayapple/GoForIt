@@ -1,0 +1,7 @@
+div {
+	position: center;
+	width: 100px;
+	height: 100px;
+	background-color: green;
+	border: 2px solid #FFFF00
+}
