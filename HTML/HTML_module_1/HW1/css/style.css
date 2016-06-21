@@ -1,0 +1,27 @@
+body{
+	background-color: #EFEFEF;
+}
+.main{
+	width: 700px;
+	background-color: #fff;
+	margin: auto;
+	padding: 30px;
+}
+
+.fio{
+		text-align: center;
+}
+
+.fio h1{
+	text-transform: capitalize;
+	font-size: 1.5em;
+}
+
+
+.crop{
+	overflow:hidden; 
+	}
+.crop img{
+		width: 200px;
+        margin:-50px -10px -40px -10px;
+	}
