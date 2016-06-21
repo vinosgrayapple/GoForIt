@@ -1,0 +1,13 @@
+
+body{
+	margin: 0;
+}
+.wrapper {
+	width: auto;
+	background: green;
+}
+.box{
+	width: 50%;
+	background: #000;
+	color: #fff;
+}
