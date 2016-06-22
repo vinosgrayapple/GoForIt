@@ -1,45 +1,7 @@
-
-/*{
-	margin: 0;
-	padding: 0;
-
-}
-*/
-div + p {
-	background-color: #000;
-	color: #fff;
-}
-[href="http://google.com"]{
-	color: red;
-	text-decoration: none;
-	
-}
-[type="text"]{
-	color: blue;
-}
-.active{
-	text-decoration: underline;
-	
-}
-
-
-.active + li{
-	text-decoration: none;
-	background: green;
-	
-}
-
-#box{
-	border: 2px solid;
-	margin: 20px;
-	padding: 20px;
-}
-.menu_item{
-	color: red;
-}
-p{
-	color: #f00;
-}
-div p{
-	color: #f0f;
+div {
+	position: center;
+	width: 100px;
+	height: 100px;
+	background-color: green;
+	border: 2px solid #FFFF00
 }
